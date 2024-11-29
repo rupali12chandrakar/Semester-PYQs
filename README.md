@@ -1,4 +1,4 @@
-#CSVTU Semester-End & CT PYQs (according to 2k23 batch).#
+**CSVTU Semester-End & CT PYQs (according to 2k23 batch).**
 
 _This repository is dedicated to helping CSVTU students access previous year questions (PYQs) from semester-end exams and class tests (CTs). These resources are compiled to assist students in preparing for their exams effectively._
 
